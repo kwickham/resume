@@ -1,19 +1,16 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Iowa State University - Engineering Technology Support
+  position: Systems Analyst II
+  duration: July, 2019 &mdash; Present
+  summary: Host large scale WordPress infrastructure as well as full-stack Symfony PHP application development.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Iowa State University - Engineering Technology Support
+  position: Systems Analyst I
+  duration: July, 2013 &mdash; July 2019
+  summary: Role out large scale WordPress web server environments and maintain ad-hoc PHP projects.
 
+- company: Iowa State University - Engineering Technology Support
+  position: Junior Systems Analyst
+  duration:  May 2009 &mdash; May, 2013
+  summary: Learn the duties involved in RHEL systems administration to assist with full time staff projects. Duties involvied setting up web infrastructur and cluster compute nodes as well as provide Linux desktop support and installation.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
